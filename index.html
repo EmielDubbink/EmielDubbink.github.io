@@ -1,10 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="height: 100%;">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Emiel Dubbink</title>
 </head>
-<body>
-<h1>Hoi jasper</h1>
+<body style="height: 100%">
+<div id="background" style="height: 100%; width: 100%">&nbsp
+
+</div>
+<script>
+    let i = 0;
+
+    function change() {
+        let doc = document.getElementById("background");
+        let color = ["black", "blue", "brown", "green"];
+        doc.style.backgroundColor = color[i];
+        i = (i + 1) % color.length;
+    }
+
+    setInterval(change, 100);
+</script>
+
 </body>
 </html>
