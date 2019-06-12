@@ -2,59 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40a65a00-74e2-42e9-bb58-07cd785d2a89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fontAwesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/flexslider-icon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/flexslider-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/flexslider-icon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts/flexslider-icon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/hero-slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl-carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/templatemo-main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1st-big-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1st-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1st-section.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1st-tab.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2nd-big-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2nd-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2nd-section.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2nd-tab.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/3rd-big-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/3rd-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/3rd-section.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/3rd-tab.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4th-big-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4th-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4th-section.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4th-tab.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5th-big-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5th-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5th-section.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/6th-big-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/6th-item.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/img1Emiel.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/prev.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/jquery-1.11.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/vendor/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prepros-6.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/templatemo-main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/templatemo-main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -67,30 +16,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+            <state relative-caret-position="952">
+              <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/templatemo-main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="148" column="47" lean-forward="true" selection-start-line="148" selection-start-column="47" selection-end-line="148" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18565">
-              <caret line="5" column="148251" lean-forward="true" selection-start-line="5" selection-start-column="148251" selection-end-line="5" selection-end-column="148251" />
+            <state relative-caret-position="196">
+              <caret line="185" column="62" selection-start-line="185" selection-start-column="62" selection-end-line="185" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -104,21 +44,27 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>testi</find>
+      <find>projects</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/templatemo-main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/templatemo-main.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="146" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -129,24 +75,34 @@
         <subPane>
           <expand>
             <path>
-              <item name="EmielDubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EmielDubbink.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="emieldubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emieldubbink.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EmielDubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EmielDubbink.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="emieldubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emieldubbink.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EmielDubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EmielDubbink.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="emieldubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emieldubbink.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EmielDubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EmielDubbink.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="emieldubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emieldubbink.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="emieldubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emieldubbink.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="logo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="emieldubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emieldubbink.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -158,7 +114,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Logos programming/frankarendpoth.github.io-master/content/pop-vlog/javascript/2018/006-rabbit-trap" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -191,23 +147,20 @@
       <option name="presentableId" value="Default" />
       <updated>1551189056822</updated>
       <workItem from="1551189058095" duration="4326000" />
+      <workItem from="1556867594912" duration="8140000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4326000" />
+    <option name="totallyTimeSpent" value="12466000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -215,6 +168,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -224,24 +181,41 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18565">
-          <caret line="5" column="148251" lean-forward="true" selection-start-line="5" selection-start-column="148251" selection-end-line="5" selection-end-column="148251" />
+        <state relative-caret-position="814">
+          <caret line="5" column="148251" selection-start-line="5" selection-start-column="148251" selection-end-line="5" selection-end-column="148251" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/hero-slider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2397" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/owl-carousel.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="98" column="26" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/templatemo-main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="148" column="47" lean-forward="true" selection-start-line="148" selection-start-column="47" selection-end-line="148" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        <state relative-caret-position="196">
+          <caret line="185" column="62" selection-start-line="185" selection-start-column="62" selection-end-line="185" selection-end-column="62" />
         </state>
       </provider>
     </entry>
