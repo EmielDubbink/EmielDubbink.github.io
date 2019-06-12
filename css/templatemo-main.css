@@ -16,8 +16,8 @@ section {
   background: #fff;
 }
 
-body { 
-  position: relative; /* we need this for the scrollspy */ 
+body {
+  position: relative; /* we need this for the scrollspy */
   font-size: 14px;
 }
 
@@ -139,14 +139,30 @@ a:hover { color: #FF0; }
 .parallax-content {
   width: 100%;
   min-height: 100vh;
+  max-height: 100vh;
   background-size: cover;
+  background: #777;
 }
 
+.about-me-container {
+  background: #a4a4a4;
+}
+
+.image-container {
+  width: auto;
+  height: auto;
+  max-height: 800px;
+  float: right;
+}
 
 .baner-content {
   padding-top: 30vh;
   text-align: center;
   background-image: url(../img/img1Emiel.jpeg);
+  width: 100%;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: right;
 }
 
 .baner-content h1 {
@@ -522,7 +538,7 @@ footer em {
 }
 
 @media (max-width: 767px){
-  
+
   .baner-content {
     padding-top: 30vh;
   }
