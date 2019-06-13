@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40a65a00-74e2-42e9-bb58-07cd785d2a89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/EmielsHoofd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bc-stones-blur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bc-stones.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/templatemo-main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/templatemo-main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -21,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="77" column="38" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
+            <state relative-caret-position="501">
+              <caret line="132" column="110" selection-start-line="132" selection-start-column="110" selection-end-line="132" selection-end-column="110" />
             </state>
           </provider>
         </entry>
@@ -30,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/templatemo-main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="153" column="20" lean-forward="true" selection-start-line="153" selection-start-column="20" selection-end-line="153" selection-end-column="20" />
+            <state relative-caret-position="281">
+              <caret line="377" column="22" selection-start-line="377" selection-start-column="22" selection-end-line="377" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -50,6 +51,7 @@
       <find>testi</find>
       <find>projects</find>
       <find>img1</find>
+      <find>blu</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -84,6 +86,11 @@
             <path>
               <item name="emieldubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="emieldubbink.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="emieldubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emieldubbink.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -105,12 +112,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Emiel\Documents\GitHub\emieldubbink.github.io\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\emiel\Documents\GitHub\new\EmielDubbink\EmielDubbink.github.io\img" />
       <recent name="C:\Users\emiel\Documents\GitHub\new\EmielDubbink\EmielDubbink.github.io" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Emiel\Documents\GitHub\emieldubbink.github.io\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -137,12 +144,13 @@
       <updated>1551189056822</updated>
       <workItem from="1551189058095" duration="4326000" />
       <workItem from="1556867594912" duration="8140000" />
-      <workItem from="1560357405125" duration="14926000" />
+      <workItem from="1560357405125" duration="15165000" />
+      <workItem from="1560412157092" duration="10533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27392000" />
+    <option name="totallyTimeSpent" value="38164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -232,15 +240,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/templatemo-main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="153" column="20" lean-forward="true" selection-start-line="153" selection-start-column="20" selection-end-line="153" selection-end-column="20" />
+        <state relative-caret-position="281">
+          <caret line="377" column="22" selection-start-line="377" selection-start-column="22" selection-end-line="377" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="77" column="38" selection-start-line="77" selection-start-column="38" selection-end-line="77" selection-end-column="38" />
+        <state relative-caret-position="501">
+          <caret line="132" column="110" selection-start-line="132" selection-start-column="110" selection-end-line="132" selection-end-column="110" />
         </state>
       </provider>
     </entry>

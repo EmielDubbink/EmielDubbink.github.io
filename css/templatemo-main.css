@@ -144,14 +144,35 @@ a:hover { color: #FF0; }
   background: #777;
 }
 
+.skills-content {
+  width: 100%;
+  min-height: 100vh;
+  /*background: #454e2c;*/
+  background: #849062;
+}
+
+.small-container {
+  max-width: 500px;
+}
+
+.about-me-content {
+  width: 100%;
+  min-height: 100vh;
+  background: #777;
+}
+
 .about-me-container {
   background: #a4a4a4;
+}
+
+.name-text {
+  color: #ff7d27;
 }
 
 .image-container {
   width: auto;
   height: auto;
-  max-height: 800px;
+  max-height: 700px;
   float: right;
 }
 
@@ -163,6 +184,10 @@ a:hover { color: #FF0; }
   min-height: 100vh;
   background-size: cover;
   background-position: right;
+}
+
+.scroll-down {
+  left: 50%
 }
 
 .baner-content h1 {
@@ -295,7 +320,7 @@ h4, .h4 {
   padding-top: 20vh;
 
   /*background-image: url(../img/3rd-section.jpg);*/
-  background-image: linear-gradient(to left, #aaa, #fff);
+  /*background-image: linear-gradient(to left, #aaa, #fff);*/
 }
 
 .projects-content .item img {
@@ -350,9 +375,9 @@ h4, .h4 {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 8vh;
-  background-image: url(../img/4th-section.jpg);
+  padding-bottom: 8vh;
+  background-image: url(../img/bc-stones-blur.jpg);
   background-attachment: fixed;
-  min-height: 100vh;
   background-size: cover;
   background-position: center center;
 }
