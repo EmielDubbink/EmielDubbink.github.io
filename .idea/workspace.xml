@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40a65a00-74e2-42e9-bb58-07cd785d2a89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/ov1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ov2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ov3.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ov4.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/takeaway1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/takeaway2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/takeaway3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/takeaway4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/takeaway5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/takeaway1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/takeaway1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/takeaway2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/takeaway2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/takeaway3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/takeaway3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/takeaway4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/takeaway4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/takeaway5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/takeaway5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,51 +21,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="48" lean-forward="true" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+            <state relative-caret-position="272">
+              <caret line="92" column="46" selection-start-line="92" selection-start-column="46" selection-end-line="92" selection-end-column="46" />
+              <folding>
+                <element signature="e#7322#7328#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="118" column="56" selection-start-line="118" selection-start-column="56" selection-end-line="118" selection-end-column="56" />
+            <state relative-caret-position="1054">
+              <caret line="98" column="68" selection-start-line="98" selection-start-column="68" selection-end-line="98" selection-end-column="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/img/takeaway1.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/plugins.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/img/takeaway2.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/templatemo-main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="138" column="5" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="5" />
+            <state relative-caret-position="624">
+              <caret line="181" column="47" selection-start-line="181" selection-start-column="47" selection-end-line="181" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2601">
+              <caret line="5" column="148251" selection-start-line="5" selection-start-column="148251" selection-end-line="5" selection-end-column="148251" />
             </state>
           </provider>
         </entry>
@@ -99,15 +95,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/templatemo-main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="145" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -119,18 +115,18 @@
         <subPane>
           <expand>
             <path>
-              <item name="emieldubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emieldubbink.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="EmielDubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmielDubbink.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="emieldubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emieldubbink.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="EmielDubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmielDubbink.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmielDubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmielDubbink.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="emieldubbink.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emieldubbink.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,13 +181,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43508000" />
+    <option name="totallyTimeSpent" value="48460000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19365498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -235,7 +231,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
+        <state relative-caret-position="2601">
           <caret line="5" column="148251" selection-start-line="5" selection-start-column="148251" selection-end-line="5" selection-end-column="148251" />
         </state>
       </provider>
@@ -244,9 +240,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2397" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/owl-carousel.css">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/img1Emiel.jpeg">
       <provider selected="true" editor-type-id="images" />
@@ -272,27 +265,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/ov1.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/EmielsHoofd.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/owl-carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="45" column="16" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/templatemo-main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="138" column="5" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="5" />
+        <state relative-caret-position="624">
+          <caret line="181" column="47" selection-start-line="181" selection-start-column="47" selection-end-line="181" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/takeaway2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/takeaway1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="98" column="68" selection-start-line="98" selection-start-column="68" selection-end-line="98" selection-end-column="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="48" lean-forward="true" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/ov1.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="118" column="56" selection-start-line="118" selection-start-column="56" selection-end-line="118" selection-end-column="56" />
+        <state relative-caret-position="272">
+          <caret line="92" column="46" selection-start-line="92" selection-start-column="46" selection-end-line="92" selection-end-column="46" />
+          <folding>
+            <element signature="e#7322#7328#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
